@@ -1,0 +1,13 @@
+Parameter,Value,Notes
+Min Interest Rate,7.85%,Salaried ≥ 800 score
+Max Interest Rate,10.40%,Non-salaried < 600
+Processing Fee,0.25%,of loan amount
+Max Tenure,30 years,
+Min Income (Salaried),"₹25,000 / month",
+Min Income (Self-Employed),₹3 L / year,
+Prepayment Charges,None,
+Concession (Women/Defence/Govt),0.05%,ROI reduction
+Schemes,"Maha Super Housing Loan, Plot + Construction, Repair/Renovation, Top-Up, Flexi Housing OD",
+LTV ≤ 30 L,90%,
+LTV 30–75 L,80%,
+LTV > 75 L,75%,

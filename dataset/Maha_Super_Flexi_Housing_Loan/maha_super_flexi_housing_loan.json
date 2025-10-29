@@ -1,0 +1,25 @@
+{
+    "loan_name": "Maha Super Flexi Housing Loan",
+    "interest_rate_min": "8.10%",
+    "max_tenure": "30 years or until 75 years of age",
+    "ltv_ratio": {
+        "≤30L": "90%",
+        "30–75L": "80%",
+        ">75L": "75%"
+    },
+    "processing_fee": "0.25% (Max ₹25,000)",
+    "eligibility": [
+        "Resident Indians",
+        "NRIs",
+        "PIOs",
+        "OCIs",
+        "Salaried",
+        "Self-employed",
+        "Business owners"
+    ],
+    "benefits": [
+        "No hidden charges",
+        "No prepayment penalties"
+    ],
+    "security": "Equitable or registered mortgage"
+}

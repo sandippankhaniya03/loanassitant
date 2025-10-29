@@ -1,0 +1,28 @@
+{
+    "scheme_name": "Pradhan Mantri Awas Yojana (PMAY) - Urban 2.0",
+    "bank": "Bank of Maharashtra",
+    "details": {
+        "interest_subsidy": "4% on the first ₹8 lakh of loan",
+        "max_loan_value": "₹25 lakh",
+        "max_property_value": "₹35 lakh",
+        "max_income_limit": "₹9 lakh per year",
+        "tenure_for_subsidy": "Up to 12 years",
+        "subsidy_disbursement": "In 5 equal yearly installments",
+        "eligible_categories": [
+            "EWS",
+            "LIG",
+            "MIG"
+        ],
+        "house_ownership_condition": "Applicant must not own a pucca house anywhere in India",
+        "benefits": [
+            "Reduced EMI due to subsidy",
+            "Lower overall interest burden",
+            "Affordable housing for urban families"
+        ],
+        "application_methods": [
+            "Bank of Maharashtra branch",
+            "PMAY official portal",
+            "Urban Local Body (ULB)"
+        ]
+    }
+}
